@@ -9,9 +9,9 @@
 //
 echo("Sturdy E3D:");
 
-Z_bearings = LM10UU;
-Y_bearings = LM10UU;
-X_bearings = LM10UU;
+Z_bearings = LM8LUU;
+Y_bearings = LM8LUU;
+X_bearings = LM8LUU;
 
 X_motor = NEMA17;
 Y_motor = NEMA17;
@@ -19,12 +19,12 @@ Z_motor = NEMA17;
 
 hot_end = e3dv6;
 
-X_travel = 214;
-Y_travel = 214;
-Z_travel = 200;
+X_travel = 200;
+Y_travel = 300;
+Z_travel = 240;
 
-bed_depth = 214;
-bed_width = 214;
+bed_depth = 315;
+bed_width = 215;
 bed_pillars = M3x20_pillar;
 bed_glass = glass2;
 bed_thickness = pcb_thickness + sheet_thickness(bed_glass);    // PCB heater plus glass sheet

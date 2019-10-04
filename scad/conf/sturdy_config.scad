@@ -9,9 +9,9 @@
 //
 echo("Sturdy:");
 
-Z_bearings = LM10UU;
-Y_bearings = LM10UU;
-X_bearings = LM10UU;
+Z_bearings = LM8LUU;
+Y_bearings = LM8LUU;
+X_bearings = LM8LUU;
 
 X_motor = NEMA17;
 Y_motor = NEMA17;

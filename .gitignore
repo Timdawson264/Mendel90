@@ -9,3 +9,5 @@ gcode
 *.g*
 dummy.csg
 Thumbs.db
+*.stl
+

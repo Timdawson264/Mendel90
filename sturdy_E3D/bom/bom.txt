@@ -28,9 +28,9 @@ Vitamins:
   |  | 3|  |  |  |  |  |  |  | 4|  |  |  |  |  |  |  |  |  |  |  |  7 Ball bearing 608 8mm x 22mm x 7mm
   |  |  |  |  |  |  |  |  |  |  |  |  |  | 2|  |  |  | 2|  |  |  |  4 Ball bearing 624 4mm x 13mm x 5mm
   |  |  |  |  |  |  |  | 4|  |  |  |  |  |  |  |  |  |  |  |  |  |  4 19mm bulldog clip
-  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  1 PCB bed 214mm x 214mm
-  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  1 Belt T2 x 6mm x 680mm
-  |  |  |  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  |  |  |  |  1 Belt T2 x 6mm x 904mm
+  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  1 PCB bed 215mm x 315mm
+  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  1 Belt T2 x 6mm x 852mm
+  |  |  |  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  |  |  |  |  1 Belt T2 x 6mm x 862mm
   |  |  |  |  |  |  |  | 4|  |  |  |  |  |  |  |  |  |  |  |  |  |  4 Corrugated cardboard 201mm x 217mm x 5mm
   |  |  |  |  |  |  |  | 4|  |  |  |  |  |  |  |  |  |  |  |  |  |  4 M3 cap screw x 10mm
   |  | 3|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  3 M3 cap screw x 12mm
@@ -38,8 +38,8 @@ Vitamins:
   |  |  |  |  |  |  |  |  |  |  |  | 1|  | 8|10|  |  |  |  |  | 8| 27 M3 cap screw x 20mm
   |  |  |  |  |  |  |  |  |  |  |  | 2|  |  |  |  |  |  |  |  |  |  2 M3 cap screw x 25mm
   |  |  |  | 2|  |  |  |  |  |  |  |  |  |  | 2|  |  |  |  |  |  |  4 M3 cap screw x 45mm
-  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 6|  |  |  |  |  6 M4 cap screw x 16mm
-  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4| 2|  |  | 2| 2| 10 M4 cap screw x 20mm
+  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 6|  |  |  | 2|  8 M4 cap screw x 16mm
+  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 4| 2|  |  | 2|  |  8 M4 cap screw x 20mm
  4|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  4 M4 cap screw x 25mm
   |  |  |  |  |  |  |  |  |  |  |  |  | 4|  |  |  |  | 1|  |  |  |  5 M4 cap screw x 30mm
   |  |  |  |  |  |  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  |  1 M4 cap screw x 45mm
@@ -51,7 +51,7 @@ Vitamins:
   |  |  |  |  |  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  |  |  1 Fan 60mm x 15mm
   |  |  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  1 Foam sponge 20mm x 20mm x 20mm
   |  |  |  | 1|  |  |  |  |  |  |  |  |  |  | 2|  |  |  | 2|  |  |  5 M3 grub screw x 6mm
-  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  1 Glass sheet 214mm x 202mm x 2mm
+  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  1 Glass sheet 215mm x 303mm x 2mm
   |  |  |  |  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  1 E3D V6 direct 3mm
   |  |  |  |  |  |  |  | 4|  |  |  |  |  |  |  |  |  |  |  |  |  |  4 Hex male / female pillar M3 x 20mm
   |  | 3|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  3 M3 hex screw x 10mm
@@ -59,10 +59,10 @@ Vitamins:
   |  | 2|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  2 M4 hex screw x 50mm
   |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  1 M8 hex screw x 60mm, hobbed at 25
   |  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  1 IEC mains lead
-  |  |  |  |  |  |  |  |  |  |  |  | 3|  | 2| 2|  | 3|  |  |  |  | 10 LM10UU linear bearing
-  |  |  |  |  | 2|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  2 MDF sheet 162mm x 389mm x 12mm
-  |  |  |  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  1 MDF sheet 489mm x 389mm x 12mm
-  |  |  |  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  1 MDF sheet 489mm x 436mm x 12mm
+  |  |  |  |  |  |  |  |  |  |  |  | 3|  | 2| 2|  | 3|  |  |  |  | 10 LM8UU linear bearing
+  |  |  |  |  | 2|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  2 MDF sheet 212mm x 432mm x 12mm
+  |  |  |  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  1 MDF sheet 468mm x 432mm x 12mm
+  |  |  |  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  1 MDF sheet 468mm x 522mm x 12mm
   | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  1 Melzi electronics
   |  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  1 2 way Molex KK header
   |  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  1 3 way Molex KK header
@@ -77,26 +77,26 @@ Vitamins:
   |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2|  |  |  |  |  |  |  2 Nitrile O-ring 2.5mm x 1.6mm
   |  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  1 Extruder connection PCB
   |  |  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  1 PLA sample 3mm ~50m
-  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  1 Polypropylene strip 410mm x 18mm x 0.5mm
-  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  1 Polypropylene strip 501mm x 25mm x 0.5mm
-  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  1 Polypropylene strip 278mm x 33mm x 0.5mm
+  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  1 Polypropylene strip undefmm x 18mm x 0.5mm
+  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  1 Polypropylene strip 500mm x 25mm x 0.5mm
+  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  1 Polypropylene strip 321mm x 33mm x 0.5mm
   |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2|  |  |  | 4|  | 8| 14 M3 pan screw x 8mm
   |  |  |  |  |  |  |  |  | 2|  |  |  |  |  |  |  |  |  |  |  |  |  2 6-32 pan screw x 9.5mm
   |  |  |  | 2|  |  |  |  | 4|  |  |  |  |  | 4| 2|  |  |  | 2|  | 14 No2 pan wood screw x 13mm
   |  |  |  |  |39|  |  |  | 4| 2|  |  |  |  |  | 8|  | 1| 4| 4| 4| 66 No6 pan wood screw x 16mm
   |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1|  |  |  | 1|  |  |  2 GT2 pulley 20 teeth
-  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  1 Ribbon cable 20 way 1281mm
-  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  1 Ribbon cable 26 way 388mm
-  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  1 Smooth rod 10mm x 290mm
-  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2|  |  2 Smooth rod 10mm x 340mm
-  |  |  |  |  |  |  |  |  |  |  | 2|  |  |  |  |  |  |  |  |  |  |  2 Smooth rod 10mm x 403mm
-  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  1 Smooth rod 10mm x 432mm
+  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  1 Ribbon cable 20 way undefmm
+  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  1 Ribbon cable 26 way 431mm
   |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  1 Smooth rod 8mm x 22mm
+  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  1 Smooth rod 8mm x 377mm
+  |  |  |  |  |  |  |  |  |  |  | 2|  |  |  |  |  |  |  |  |  |  |  2 Smooth rod 8mm x 382mm
+  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2|  |  2 Smooth rod 8mm x 383mm
+  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  1 Smooth rod 8mm x 518mm
   | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  1 Micro SD card
   | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  1 Micro SD to USB adapter
   |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 1| 1|  |  |  | 1|  |  3 Microswitch
   |  | 2|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  2 Spring 7mm OD, 1mm gauge x 10mm long
-  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2|  |  2 Threaded rod M8 x 300mm
+  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 2|  |  2 Threaded rod M8 x 343mm
   |  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  1 Heatshrink sleeving ID 10mm x 15mm
   |  |  |  |  |  |  |  | 2|  |  |  |  |  |  |  |  |  |  |  |  |  |  2 Heatshrink sleeving ID 1.6mm x 15mm
   | 2|  |  |  |  |  |  | 2| 3|  |  |  |  |  | 4|  |  |  |  |  |  | 11 Heatshrink sleeving ID 2.4mm x 15mm
@@ -121,8 +121,7 @@ Vitamins:
   | 4| 6|  |  |  |  |  |  |  |  |  |  |  |  | 2|  |  |  | 4|  | 8| 24 Star washer M3 x 0.5mm
   |  |  |  |  |39|  |  |  | 6| 2|  |  |  |  |  | 8|  | 1| 4| 4| 4| 68 Star washer M4 x 0.8mm
   |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  1 Star washer M8 x 1.6mm
-  |  |  |  |  |  | 1|  |  | 2|  |  |  |  |  |  |  |  |  |  |  |  |  3 Ziptie 100mm min length
-  |  |  |  |  |  |  |  |  |  |  |  | 3|  |  |  |  | 3|  |  |  |  |  6 Ziptie 105mm min length
+  |  |  |  |  |  | 1|  |  | 2|  |  | 3|  |  |  |  | 3|  |  |  |  |  9 Ziptie 100mm min length
 
 Printed:
   |  |  |  |  |  |  |  |  | 1|  |  |  |  |  |  |  |  |  |  |  |  |  1 atx_long_bracket.stl
