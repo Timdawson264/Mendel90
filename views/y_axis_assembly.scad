@@ -11,7 +11,7 @@
 //
 use <../scad/main.scad>
 
-y_axis_assembly(show_bed = false, show_heatshield = false);
+y_axis_assembly(show_bed = true, show_heatshield = false);
 z_axis_assembly();
 bed_fan_assembly();
 frame_assembly();

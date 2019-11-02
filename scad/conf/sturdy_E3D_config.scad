@@ -19,16 +19,16 @@ Z_motor = NEMA17;
 
 hot_end = e3dv6;
 
-X_travel = 200;
-Y_travel = 300;
+X_travel = 300;
+Y_travel = 400;
 Z_travel = 240;
 
-bed_depth = 315;
-bed_width = 215;
+bed_depth = 215;
+bed_width = 315;
 bed_pillars = M3x20_pillar;
 bed_glass = glass2;
 bed_thickness = pcb_thickness + sheet_thickness(bed_glass);    // PCB heater plus glass sheet
-bed_holes = [209, 209];
+bed_holes = [309, 209];
 
 base = MDF12;
 base_corners = 0;
